@@ -21,7 +21,10 @@ use one instead of another?
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    Fill in your answer here
+    the local remote state is telling us what it looks like on the remote
+    repository when we pull it last time. Until then, there could be change in
+    both local repository and remote repository. By keep these three states, it
+    is easy to sync the local and remote repository.
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
