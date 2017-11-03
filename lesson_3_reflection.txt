@@ -34,4 +34,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When I want to have a working master branch all the time or when I am
+    working with others.
+    Directly working on master can be ideal when I'm the only person in the
+    project and there is no multiple features have to be developed 
+    simultaneously.
